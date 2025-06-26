@@ -3,7 +3,6 @@
 English/Inglés
 
 To flash a Vanilla ROM, follow the steps below:
-
 1.Flash FW according to device(topaz/tapas).
 2.Flash ROM with "Reflash OrangeFox" option enabled.
 3.Format data.
