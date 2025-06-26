@@ -27,22 +27,22 @@ Para flashear una ROM con GApps, siga los siguientes pasos:
 English/Inglés
 
 To flash a Vanilla ROM, follow the steps below:
-1.Flash FW according to device(topaz/tapas).
-2.Flash ROM with "Reflash OrangeFox" option enabled.
-3.Format data.
-4.Reboot recovery.
-5.Flash Ro2RW.
-6.Reboot recovery.
-7.Flash gapps.
-8.Format Data.
-9.Reboot system.
+1. Flash FW according to device(topaz/tapas).
+2. Flash ROM with "Reflash OrangeFox" option enabled.
+3. Format data.
+4. Reboot recovery.
+5. Flash Ro2RW.
+6. Reboot recovery.
+7. Flash gapps.
+8. Format Data.
+9. Reboot system.
 
 To flash a GApps ROM, follow the steps below:
-1.Reboot recovery.
-2.Flash FW according to device(topaz/tapas).
-3.Flash ROM with "Reflash OrangeFox" option enabled.
-4.Format data.
-5.Reboot system.
+1. Reboot recovery.
+2. Flash FW according to device(topaz/tapas).
+3. Flash ROM with "Reflash OrangeFox" option enabled.
+4. Format data.
+5. Reboot system.
 
 
 
