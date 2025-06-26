@@ -47,12 +47,3 @@ Para flashear una ROM con GApps, siga los siguientes pasos:
 
 Lista de Gapps con su respectiva versión de android(Nikgapps)
 https://sourceforge.net/projects/nikgapps/files/Releases/
-
-
-
-To flash a GApps ROM, follow the steps below:
-1.Reboot recovery
-2.Flash FW according to device(topaz/tapas).
-3.Flash ROM with "Reflash OrangeFox" option enabled
-4.Format data
-5.Reboot system
