@@ -24,8 +24,8 @@ English/Inglés
 
 | Model/Modelo           | Codename/Nombre Clave | NFC |
 |------------------------|----------|-----|
-| Redmi Note 12 4G       | tapas    | ❌  |
-| Redmi Note 12 4G NFC   | topaz    | ✅  |
+| Redmi Note 12 4G       |   tapas  |  ❌  |
+| Redmi Note 12 4G NFC   |   topaz  |  ✅  |
 
 
 
