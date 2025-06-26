@@ -2,42 +2,77 @@
 
 English/Inglés
 
-To flash a Vanilla ROM, follow the steps below:
-1. Flash FW according to device(topaz/tapas).
-2. Flash ROM with "Reflash OrangeFox" option enabled.
-3. Format data.
-4. Reboot recovery.
-5. Flash Ro2RW. 
-6. Reboot recovery.
-7. Flash gapps.
-8. Format Data.
-9. Reboot system.
+# Redmi Note 12 4G — Custom ROM & Tools Repository
 
-To flash a GApps ROM, follow the steps below:
-1. Reboot recovery.
-2. Flash FW according to device(topaz/tapas).
-3. Flash ROM with "Reflash OrangeFox" option enabled.
-4. Format data.
-5. Reboot system.
+> ⚙️ Comprehensive toolkit and instructions for Redmi Note 12 4G (Codenames: `topaz`, `tapas`).
+
+## 🌍 Languages / Idiomas
+- 🇬🇧 English
+- 🇪🇸 Español
+
+---
+
+## 📦 Repository Contents
+
+- 🔄 Official ROMs (Fastboot / Recovery)
+- 📲 Custom ROMs (Vanilla / GApps)
+- 🧩 GApps Packages (NikGApps Core – Android 13/14/15)
+- 🛠️ Custom Recoveries (TWRP, OrangeFox)
+- 🧱 Bootloader Unlock Guide
+- 🔧 Magisk / Root instructions
+- 💾 Backup Tools
+- 🚑 Troubleshooting
+
+---
+
+## 📱 Supported Variants
+
+| Model                  | Codename | NFC |
+|------------------------|----------|-----|
+| Redmi Note 12 4G       | tapas    | ❌  |
+| Redmi Note 12 4G NFC   | topaz    | ✅  |
+
+---
+
+## ⚠️ Important Notes
+
+- Bootloader unlocking **erases all data**.
+- Always verify **codename** before flashing.
+- All files provided here are for educational and personal use only.
+- Make full backups before modifying your device.
+
+---
+
+## 🔗 Resources & Tools
+
+- 📎 [Mi Flash Tool](https://xiaomiflashtool.com)
+- 📎 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
+- 📎 [Official Firmware Download](https://xiaomifirmwareupdater.com/)
+- 📎 [Stock Tapas] (https://mifirm.net/model/tapas.ttt#global)
+- 📎 [Firmware Tapas] (https://xmfirmwareupdater.com/archive/firmware/tapas/)
+- 📎 [Stock Topaz] (https://mifirm.net/model/topaz.ttt#global)
+- 📎 [Firmware Tapas] (https://xmfirmwareupdater.com/archive/firmware/topaz/)
+- 🗨️ [Telegram Support](https://t.me/RedmiNote124GNFC)
+
+---
+
+## 🤝 Contribute
+
+Pull requests for additional tools, ROMs, or corrections are welcome.  
+Found an issue? Open one [here](https://github.com/your-repo/issues).
+
+---
+
+## 📜 License
+
+This repository is distributed under the MIT License.  
+All product names, trademarks, and registered trademarks are property of their respective owners.
+
 
 
 Spanish/Español
 
-Para flashear una ROM Vanilla, siga los siguientes pasos:
-1. Reiniciar en recuperación
-2. Flashee el firmware según el dispositivo (Topaz/Tapas).
-3. Flashee la ROM con la opción "Reflash OrangeFox" activada.
-4. Formatee los datos.
-5. Reiniciar en recuperación.
-6. Flashee Ro2RW.
-7. Reiniciar en recuperación.
-8. Flashee GAPPS.
-9. Formatee los datos.
-10. Reiniciar el sistema.
-
-Para flashear una ROM con GApps, siga los siguientes pasos:
-1. Reiniciar en recuperación
-2. Flashee el firmware según el dispositivo (Topaz/Tapas).
-3. Flashee la ROM con la opción "Reflash OrangeFox" activada.
-4. Formatee los datos.
-5. Reiniciar el sistema.
+⚠️Aviso importante⚠️
+- Desbloquear el bootloader borra todos tus datos.
+- Siempre verifica el **codename** antes de instalar cualquier archivo.
+- Haz un respaldo de tus archivos importantes antes de modificar tu sistema.
