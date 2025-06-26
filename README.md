@@ -1,5 +1,6 @@
 # Redmi-Note-12-4G
 
+#Flash Vanilla and Gapps
 Spanish/Español
 
 Para flashear una ROM Vanilla, siga los siguientes pasos:
