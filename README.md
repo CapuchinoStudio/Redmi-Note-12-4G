@@ -22,6 +22,8 @@ To flash a GApps ROM, follow the steps below:
 5.Reboot system
 
 
+
+
 Spanish/Español
 
 Para flashear una ROM Vanilla, siga los siguientes pasos:
