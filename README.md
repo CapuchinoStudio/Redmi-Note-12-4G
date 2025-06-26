@@ -45,10 +45,10 @@ English/Inglés
 - 📎 [Mi Flash Tool](https://xiaomiflashtool.com)
 - 📎 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 - 📎 [Official Firmware Download](https://xiaomifirmwareupdater.com/)
-- 📎 [Stock Tapas] (https://mifirm.net/model/tapas.ttt#global)
-- 📎 [Firmware Tapas] (https://xmfirmwareupdater.com/archive/firmware/tapas/)
-- 📎 [Stock Topaz] (https://mifirm.net/model/topaz.ttt#global)
-- 📎 [Firmware Tapas] (https://xmfirmwareupdater.com/archive/firmware/topaz/)
+- 📎 [Stock Tapas](https://mifirm.net/model/tapas.ttt#global).
+- 📎 [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
+- 📎 [Stock Topaz](https://mifirm.net/model/topaz.ttt#global)
+- 📎 [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/topaz/)
 - 🗨️ [Telegram Support](https://t.me/RedmiNote124GNFC)
 
 ---
