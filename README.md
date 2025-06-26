@@ -1,14 +1,9 @@
 # Redmi Note 12 4G
 
 English/Inglés
-
-# Redmi Note 12 4G — Custom ROM & Tools Repository
-
-> ⚙️ Comprehensive toolkit and instructions for Redmi Note 12 4G (Codenames: `topaz`, `tapas`).
-
 ## 🌍 Languages / Idiomas
-- 🇬🇧 English
-- 🇪🇸 Español
+- English
+- Español
 
 ---
 
@@ -27,10 +22,12 @@ English/Inglés
 
 ## 📱 Supported Variants
 
-| Model                  | Codename | NFC |
+| Model/Modelo           | Codename/Nombre Clave | NFC |
 |------------------------|----------|-----|
 | Redmi Note 12 4G       | tapas    | ❌  |
 | Redmi Note 12 4G NFC   | topaz    | ✅  |
+
+
 
 ---
 
