@@ -26,6 +26,7 @@
 - 🗨️ [Custom Roms-Group 2](https://t.me/RedmiNote12Indonesia_ch)
 - 🗨️ [Custom Roms-Group 3](https://t.me/RN124GTAPAS)
 - 🤝 [Xiaomi Community](https://c.mi.com/global/)
+
 ---
 
 ##  Official Stock (Fastboot-Recovery)
@@ -43,10 +44,9 @@
   
 ---
 
-⚠️**AVISO IMPORTANTE**⚠️
-- Desbloquear el bootloader borra todos tus datos.
-- Siempre verifica el **nombre clave** antes de instalar cualquier archivo.
-- Haz un respaldo de tus archivos importantes antes de modificar tu sistema
+## Bootloader
+
+1. 🔓 Unlock Bootloader MIUI (Mi Unlock), Unlock Bootloader HyperOS (Mi Unlock + Mi Community)
 
 ⚠️ **IMPORTANT NOTICE** ⚠️
 
@@ -54,12 +54,13 @@
 - Always verify the **codename** before flashing any file.
 - Back up your important files before modifying your system.
 
+1. 🔓 Desbloquear Bootloader MIUI (Mi Unlock) // Desbloquear Bootloader HyperOS (Mi Unlock + Mi Community
+   
+⚠️**AVISO IMPORTANTE**⚠️
+- Desbloquear el bootloader borra todos tus datos.
+- Siempre verifica el **nombre clave** antes de instalar cualquier archivo.
+- Haz un respaldo de tus archivos importantes antes de modificar tu sistema
+
 ---
 
 
-- [📱 Variants / Variantes](#-variants--variantes)
-- [📦 Resources / Recursos](#resources--tools--recursos--herramientas)
-- [⚡ Stock ROMs](#--official-stock-fastboot-recovery)
-- [🧩 GApps](#)
-- [🤖 Bots y Soporte](#support--soporte)
-- [⚠️ Avisos](#aviso-importante)
