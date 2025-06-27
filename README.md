@@ -34,8 +34,8 @@ English/Inglés
 - [Custom Recovery](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - [GApps Packages (NikGApps Core – Android 13/14/15)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
 - [Custom Roms-Group 1](https://t.me/RedmiNote124GNFC)
-- [Custom Roms-Group 2]([[https://t.me/RedmiNote124GNFC](https://t.me/RedmiNote12Indonesia_ch)](https://t.me/RN124GTAPAS))
-- [Custom Roms-Group 3](https://t.me/RedmiNote124GNFC)
+- [Custom Roms-Group 2](https://t.me/RedmiNote12Indonesia_ch)
+- [Custom Roms-Group 3]([https://t.me/RedmiNote124GNFC](https://t.me/RN124GTAPAS)
 
   
 ---
