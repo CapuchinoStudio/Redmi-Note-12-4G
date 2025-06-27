@@ -1,16 +1,17 @@
 # Redmi Note 12 4G
 
-## 🌍Languages / Idiomas
+## 🌍 Languages / Idiomas
 - English/Inglés
 - Spanish/Español
 
 ---
-## 📱Variants / Variantes
+
+## 📱 Variants / Variantes
 
 | Model/Modelo           | Codename/Nombre Clave | NFC |
-|------------------------|----------|-----|
-| Redmi Note 12 4G       |   Tapas  |  ❌  |
-| Redmi Note 12 4G NFC   |   Topaz  |  ✅  |
+|------------------------|-----------------------|-----|
+| Redmi Note 12 4G       |          Tapas        |  ❌ |
+| Redmi Note 12 4G NFC   |          Topaz        |  ✅ |
 
 ---
 
@@ -25,14 +26,12 @@
 - 🗨️ [Custom Roms-Group 2](https://t.me/RedmiNote12Indonesia_ch)
 - 🗨️ [Custom Roms-Group 3](https://t.me/RN124GTAPAS)
 
-  
 ---
 
 ##  Official Stock (Fastboot-Recovery)
 - ⚡ [Stock Topaz](https://mifirm.net/model/topaz.ttt#global)
 - ⚡ [Stock Tapas](https://mifirm.net/model/tapas.ttt#global)
 
-  
 ## Official Firmware
 - ⚡ [Firmware Topaz](https://xmfirmwareupdater.com/archive/firmware/topaz/)
 - ⚡ [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
