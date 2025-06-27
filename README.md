@@ -21,7 +21,7 @@
 - 🛠️ [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
 - 📁 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 - 🔧 [Custom Recovery](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
-- 🧩 [GApps(NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
+- 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
 - 🗨️ [Redmi Note 12 4G | NFC](https://t.me/RedmiNote124GNFC)
 - 🗨️ [Redmi Note 12 4G | Update](https://t.me/RedmiNote12Indonesia_ch)
 - 🗨️ [Redmi Note 12 4G Global Updates](https://t.me/RN124GTAPAS)
