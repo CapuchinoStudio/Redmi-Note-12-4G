@@ -26,7 +26,6 @@
 - 🗨️ [Custom Roms-Group 2](https://t.me/RedmiNote12Indonesia_ch)
 - 🗨️ [Custom Roms-Group 3](https://t.me/RN124GTAPAS)
 - 🤝 [Xiaomi Community](https://c.mi.com/global/)
-- 🤖 Telegram Bot @XiaomiGeeksBot
 ---
 
 ##  Official Stock (Fastboot-Recovery)
@@ -58,4 +57,9 @@
 ---
 
 
-
+- [📱 Variants / Variantes](#-variants--variantes)
+- [📦 Resources / Recursos](#resources--tools--recursos--herramientas)
+- [⚡ Stock ROMs](#--official-stock-fastboot-recovery)
+- [🧩 GApps](#)
+- [🤖 Bots y Soporte](#support--soporte)
+- [⚠️ Avisos](#aviso-importante)
