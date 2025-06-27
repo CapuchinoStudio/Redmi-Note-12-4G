@@ -36,12 +36,14 @@ English/Inglés
   
 ---
 
-##📲 Stock & Firmware
+##📲 Stock & Firmware (Topaz)
+- 📎 [Stock Topaz](https://mifirm.net/model/topaz.ttt#global)
+- 📎 [Firmware Topaz](https://xmfirmwareupdater.com/archive/firmware/topaz/)
+  
+##📲 Stock & Firmware (Tapas)
 - 📎 [Stock Tapas](https://mifirm.net/model/tapas.ttt#global)
 - 📎 [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
-- 📎 [Stock Topaz](https://mifirm.net/model/topaz.ttt#global)
-- 📎 [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/topaz/)
-
+- 
 ---
 
 ##🗨️ Support
