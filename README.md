@@ -17,15 +17,17 @@
 
 ## Resources & Tools / Recursos & herramientas
 
+- 🤝 [Xiaomi Community](https://c.mi.com/global/)
 - 🛠️ [Mi Flash Tool](https://xiaomiflashtool.com)
 - 🛠️ [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
 - 📁 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 - 🔧 [Custom Recovery](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
+
+## Groups / Grupos 
 - 🗨️ [Redmi Note 12 4G | NFC](https://t.me/RedmiNote124GNFC)
 - 🗨️ [Redmi Note 12 4G | Update](https://t.me/RedmiNote12Indonesia_ch)
 - 🗨️ [Redmi Note 12 4G Global Updates](https://t.me/RN124GTAPAS)
-- 🤝 [Xiaomi Community](https://c.mi.com/global/)
 
 ---
 
@@ -40,7 +42,7 @@
 ---
 
 ## Support / Soporte
-- 🗨️ [Telegram Support](https://t.me/RedmiNote124GNFC)
+- 🗨️ [Redmi Note 12 4G | NFC](https://t.me/RedmiNote124GNFC/537)
   
 ---
 
