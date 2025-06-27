@@ -32,8 +32,6 @@ English/Inglés
 - 📎 [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
 - 📎 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 
-
-  
 ---
 
 ##📲 Stock & Firmware (Topaz)
@@ -43,7 +41,7 @@ English/Inglés
 ##📲 Stock & Firmware (Tapas)
 - 📎 [Stock Tapas](https://mifirm.net/model/tapas.ttt#global)
 - 📎 [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
-- 
+  
 ---
 
 ##🗨️ Support
@@ -52,14 +50,16 @@ English/Inglés
 ---
 ⚠️Aviso importante⚠️
 - Desbloquear el bootloader borra todos tus datos.
-- Siempre verifica el **codename** antes de instalar cualquier archivo.
-- Haz un respaldo de tus archivos importantes antes de modificar tu sistema.
-
----
+- Siempre verifica el **nombre clave** antes de instalar cualquier archivo.
+- Haz un respaldo de tus archivos importantes antes de modificar tu sistema
 
 ⚠️ **Important Notice** ⚠️
 
-* Unlocking the bootloader will erase all your data.
-* Always verify the **codename** before flashing any file.
-* Back up your important files before modifying your system.
+- Unlocking the bootloader will erase all your data.
+- Always verify the **codename** before flashing any file.
+- Back up your important files before modifying your system.
+
+---
+
+
 
