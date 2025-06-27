@@ -3,20 +3,20 @@
 English/Inglés
 ## 🌍 Languages / Idiomas
 - English/Inglés
-- Español/Spanish
+- Spanish/Español
 
 ---
 
 ## 📦 Repository Contents
 
 - 🔄 Official ROMs (Fastboot / Recovery)
-- 📲 Custom ROMs (Vanilla / GApps)
+- 📲 Custom ROMs [Vanilla / GApps](https://t.me/RedmiNote12Indonesia_ch)
 - 🧩 GApps Packages (NikGApps Core – Android 13/14/15)
-- 🛠️ Custom Recoveries (TWRP, OrangeFox)
-- 🧱 Bootloader Unlock Guide
-- 🔧 Magisk / Root instructions
-- 💾 Backup Tools
-- 🚑 Troubleshooting
+- 🛠️ Custom Recoveries (OrangeFox)  []
+- 🧱 [Bootloader Unlock Guide MIUI]()
+- 🧱 [Bootloader Unlock Guide HyperOS](https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/)
+- 🛠️ [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
+- 🔧 KSU / Root instructions
 
 ---
 
@@ -32,6 +32,7 @@ English/Inglés
 ## 🔗 Resources & Tools
 
 - 📎 [Mi Flash Tool](https://xiaomiflashtool.com)
+- [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
 - 📎 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 - 📎 [Stock Tapas](https://mifirm.net/model/tapas.ttt#global)
 - 📎 [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
