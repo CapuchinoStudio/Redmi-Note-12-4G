@@ -46,7 +46,7 @@
 
 ## Bootloader
 
-1. 🔓 Unlock Bootloader MIUI (Mi Unlock), Unlock Bootloader HyperOS (Mi Unlock + Mi Community)
+1- 🔓 Unlock Bootloader MIUI (Mi Unlock), Unlock Bootloader HyperOS (Mi Unlock + Mi Community)
 
 ⚠️ **IMPORTANT NOTICE** ⚠️
 
@@ -55,7 +55,7 @@
 - Back up your important files before modifying your system.
 
 
-1. 🔓 Desbloquear Bootloader MIUI (Mi Unlock) // Desbloquear Bootloader HyperOS (Mi Unlock + Mi Community
+1- 🔓 Desbloquear Bootloader MIUI (Mi Unlock) // Desbloquear Bootloader HyperOS (Mi Unlock + Mi Community
    
 ⚠️**AVISO IMPORTANTE**⚠️
 - Desbloquear el bootloader borra todos tus datos.
