@@ -23,7 +23,7 @@
 - 📁 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 - 🔧 [Custom Recovery](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
-- 🛡️ [KernelSU]()
+- 🛡️ [KernelSU](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/KernelSU)
   
 ---
 
