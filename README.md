@@ -1,12 +1,12 @@
 # Redmi Note 12 4G
 
-## 🌍 Languages / Idiomas
+### 🌍 Languages / Idiomas
 - English/Inglés
 - Spanish/Español
 
 ---
 
-## 📱 Variants / Variantes
+### 📱 Variants / Variantes
 
 | Model/Modelo           | Codename/Nombre Clave | NFC |
 |------------------------|-----------------------|-----|
@@ -15,7 +15,7 @@
 
 ---
 
-## Resources & Tools / Recursos & herramientas
+### Resources & Tools / Recursos & herramientas
 
 - 🤝 [Xiaomi Community](https://c.mi.com/global/)
 - 🛠️ [Mi Flash Tool](https://xiaomiflashtool.com)
@@ -23,30 +23,33 @@
 - 📁 [Platform Tools (ADB/Fastboot)](https://developer.android.com/studio/releases/platform-tools)
 - 🔧 [Custom Recovery](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
+- 🛡️ [KernelSU]()
+  
+---
 
-## Groups / Grupos 
+### Groups / Grupos 
 - 🗨️ [Redmi Note 12 4G | NFC](https://t.me/RedmiNote124GNFC)
 - 🗨️ [Redmi Note 12 4G | Update](https://t.me/RedmiNote12Indonesia_ch)
 - 🗨️ [Redmi Note 12 4G Global Updates](https://t.me/RN124GTAPAS)
 
 ---
 
-##  Official Stock (Fastboot-Recovery)
+###  Official Stock (Fastboot-Recovery)
 - ⚡ [Stock Topaz](https://mifirm.net/model/topaz.ttt#global)
 - ⚡ [Stock Tapas](https://mifirm.net/model/tapas.ttt#global)
 
-## Official Firmware
+### Official Firmware
 - ⚡ [Firmware Topaz](https://xmfirmwareupdater.com/archive/firmware/topaz/)
 - ⚡ [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
 
 ---
 
-## Support / Soporte
+### Support / Soporte
 - 🗨️ [Redmi Note 12 4G | NFC](https://t.me/RedmiNote124GNFC/537)
   
 ---
 
-## Bootloader
+### Bootloader
 
 ⚠️ **IMPORTANT NOTICE** ⚠️
 
