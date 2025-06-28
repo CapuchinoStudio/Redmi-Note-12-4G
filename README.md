@@ -20,7 +20,7 @@
 - 🤝 [Xiaomi Community](https://c.mi.com/global/)
 - 🛠️ [Mi Flash Tool](https://xiaomiflashtool.com)
 - 🛠️ [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
-- 📁 [Custom Recovery and Platform Tools](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
+- 📁 [Custom Recovery + Platform Tools](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
 - 🛡️ [KernelSU (Root)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/KernelSU)
   
