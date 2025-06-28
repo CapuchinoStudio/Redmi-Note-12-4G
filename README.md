@@ -2,7 +2,7 @@
 
 ### 🌍 Languages / Idiomas
 - English/Inglés
-- Spanish/Español
+- Español/Spanish
 
 ---
 
