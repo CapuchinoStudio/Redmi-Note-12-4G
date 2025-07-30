@@ -43,11 +43,6 @@
 
 ---
 
-### Support / Soporte
-- 🗨️ [Redmi Note 12 4G | NFC](https://t.me/RedmiNote124GNFC/537)
-  
----
-
 ### Bootloader
 
 ⚠️ **IMPORTANT NOTICE** ⚠️
