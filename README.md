@@ -6,6 +6,23 @@
 
 ---
 
+### Bootloader
+
+⚠️ **IMPORTANT NOTICE** ⚠️
+
+- Unlocking the bootloader will erase all your data.
+- Always verify the **codename** before flashing any file.
+- Back up your important files before modifying your system.
+- Unlock Bootloader MIUI (Mi Unlock), Unlock Bootloader HyperOS (Mi Unlock + Mi Community)
+
+⚠️**AVISO IMPORTANTE**⚠️
+- Desbloquear el bootloader borra todos tus datos.
+- Siempre verifica el **nombre clave** antes de instalar cualquier archivo.
+- Haz un respaldo de tus archivos importantes antes de modificar tu sistema
+- Desbloquear Bootloader MIUI (Mi Unlock) // Desbloquear Bootloader HyperOS (Mi Unlock + Mi Community)
+
+---
+
 ### 📱 Variants / Variantes
 
 | Model/Modelo           | Codename/Nombre Clave | NFC |
@@ -41,23 +58,6 @@
 ### Official Firmware
 - ⚡ [Firmware Topaz](https://xmfirmwareupdater.com/archive/firmware/topaz/)
 - ⚡ [Firmware Tapas](https://xmfirmwareupdater.com/archive/firmware/tapas/)
-
----
-
-### Bootloader
-
-⚠️ **IMPORTANT NOTICE** ⚠️
-
-- Unlocking the bootloader will erase all your data.
-- Always verify the **codename** before flashing any file.
-- Back up your important files before modifying your system.
-- Unlock Bootloader MIUI (Mi Unlock), Unlock Bootloader HyperOS (Mi Unlock + Mi Community)
-
-⚠️**AVISO IMPORTANTE**⚠️
-- Desbloquear el bootloader borra todos tus datos.
-- Siempre verifica el **nombre clave** antes de instalar cualquier archivo.
-- Haz un respaldo de tus archivos importantes antes de modificar tu sistema
-- Desbloquear Bootloader MIUI (Mi Unlock) // Desbloquear Bootloader HyperOS (Mi Unlock + Mi Community)
 
 ---
 
