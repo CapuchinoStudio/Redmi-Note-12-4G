@@ -22,7 +22,7 @@
 - 🛠️ [Mi Unlock Tool](https://en.miui.com/unlock/download_en.html)
 - 📁 [OrangeFox Recovery + Platform Tools](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
-- 🧩 [GApps (NikGApps Addon)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Addons).
+- 🧩 [GApps (NikGApps Addon)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Addons)
 - 🛡️ [KernelSU + KernelSU Next (Root)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/KernelSU)
   
 ---
