@@ -40,8 +40,8 @@
 - 📁 [OrangeFox Recovery + Platform Tools](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Recovery)
 - 🧩 [GApps (NikGApps Core)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Gapps)
 - 🧩 [GApps (NikGApps Addon)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/Addons)
-- 📎 [Firmware Tapas HOS 1)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/FirmwareHOS1)
-- 📎 [Firmware Tapas HOS 2)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/FirmwareHOS2)
+- 📎 [Firmware Tapas HOS 1](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/FirmwareHOS1)
+- 📎 [Firmware Tapas HOS 2](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/FirmwareHOS2)
 - 🛡️ [KernelSU + KernelSU Next (Root)](https://github.com/CapuchinoStudio/Redmi-Note-12-4G/releases/tag/KernelSU)
   
 ---
